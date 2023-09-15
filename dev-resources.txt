@@ -1,0 +1,2 @@
+https://programmingfields.com/laravel-form-validation-using-jquery-form-validation/
+https://www.codecheef.org/article/laravel-7-client-side-form-validation-with-jquery-example
